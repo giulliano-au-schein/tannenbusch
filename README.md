@@ -1,8 +1,10 @@
 # Tetris tannenbusch
 
-![Logo](assets/logo.png)
+![Logo](./logo.png)
 
 A polished Tetris implementation built with Flutter for macOS and iOS, themed to match the “tannenbusch” poster style. It features a framed board, sidebar panels for score and next preview, and branded badges on dark tiles.
+
+![Concept](./concept.png)
 
 ## Features
 - Classic Tetris gameplay with 7 tetrominoes and rotations
